@@ -100,6 +100,6 @@ Make a Jupiter Notebook or Google Colab and execute the following code:
 ![Score2](https://github.com/officialAmanchauhan/ML-Olympiad-Autism-Challenge/blob/main/Assets/0.93imporved.png)
 ![Score1](https://github.com/officialAmanchauhan/ML-Olympiad-Autism-Challenge/blob/main/Assets/0.93-Accuracy.png)
 
-Will be happy to collaborate
+Will be Happy to collaborate
 
 Made with ❤ from [Aman Chauhan](https://github.com/officialAmanchauhan)
